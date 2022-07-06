@@ -1,2 +1,9 @@
+# Jupyter Notebook
 .ipynb_checkpoints
+
+# Model results (will upload weights though)
 exports
+
+# Local datasets (can be several GB)
+*.xlsx
+*.csv
