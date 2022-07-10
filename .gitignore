@@ -3,7 +3,10 @@
 
 # Model results (will upload weights though)
 exports
+logs
 
 # Local datasets (can be several GB)
+datasets
 *.xlsx
 *.csv
+*.gz

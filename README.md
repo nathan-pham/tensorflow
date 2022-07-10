@@ -8,7 +8,8 @@
 3. [Text Classifier](/guide/3_text_classifier.ipynb)
 
 ### Projects
-1. [Clothing Generator](/projects/1_clothing_generator.ipynb)
+1. [Clothing Generator](/projects/1_clothing_generator/)
+2. [Reinforcement Learning Mario](/projects/2_reinforcement_mario/)
 
 ### Udemy Courses
-1. [Power Plant Regression](/udemy_ann/1_power_regression.ipynb)
+1. [Power Plant Regression](/udemy/1_power_regression.ipynb)
